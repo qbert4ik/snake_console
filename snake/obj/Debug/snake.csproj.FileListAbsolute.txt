@@ -1,0 +1,7 @@
+M:\пробую\змейка\змейка\bin\Debug\snake.exe.config
+M:\пробую\змейка\змейка\bin\Debug\snake.exe
+M:\пробую\змейка\змейка\bin\Debug\snake.pdb
+M:\пробую\змейка\змейка\obj\Debug\snake.csproj.AssemblyReference.cache
+M:\пробую\змейка\змейка\obj\Debug\snake.csproj.CoreCompileInputs.cache
+M:\пробую\змейка\змейка\obj\Debug\snake.exe
+M:\пробую\змейка\змейка\obj\Debug\snake.pdb
